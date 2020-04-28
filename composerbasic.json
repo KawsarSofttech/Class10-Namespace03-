@@ -1,0 +1,11 @@
+{
+	"name":"kawsar",
+	"status":{
+		"isDead":"alive",
+		"jos":[
+				'jobname':'bankaer',
+			],
+	}
+}
+
+$data->status->isDead
